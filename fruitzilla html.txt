@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fruitzilla | Ecommerce Website Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="header">
+<div class="container">
+    <div class="navbar">
+        <div class="logo">
+            <img src="images/logo.png" width="250px">
+        </div>
+        <nav>
+            <ul>
+                <div class="search">
+                    <form>
+                        <input type="text" placeholder="Search.....">
+                        <button>Search</button>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Offers</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Login</a></li>
+                    </form>
+                </div>
+            </ul>
+        </nav>
+        <img src="images/carti img.png" width="30px" height="30px">
+     </div>
+    <div class="row">
+        <div class="col-2">
+            <h1>Fruitzilla</h1>
+            <p>Fresh Fruits<br>We'll Deliver Every Fruit's<br>You Need! </p>
+            <a href="" class="btn">SHOP NOW &#8594;</a>
+        </div>
+        <div class="col-2"></div>
+            <img src="images/1.jpg">
+        </div>
+    </div>
+</div>
+</div>
+
+<!------- featured categories -------->
+<div class="categories">
+    <div class="small-container">
+        <div class="row">
+            <div class="col-3">
+                <img src="images/junnar hapus.jpg">
+            </div>
+            <div class="col-3">
+                <img src="images/Kiwi_shutterstock_84220885-1.jpg">
+            </div>
+            <div class="col-3">
+                <img src="images/strawberries.jpg">
+            </div>
+        </div>
+    </div>
+    
+</div>
+<!------ *All Fruits* ------->
+    <div class="small-container">
+        <h2 class="title">***All Fruits***</h2>
+        <div class="row">
+            <div class="col-4">
+                <img src="images/Growing-Cherry-Fruits..jpg">
+                <h3>Imported Cherry(1-kg)</h3>
+                <p>Rs-300</p>
+            </div>
+            <div class="col-4">
+                <img src="images/carambola.jpg">
+                <h3>Carambola(1-kg)</h3>
+                <p>Rs-100</p>
+            </div>
+            <div class="col-4">
+                <img src="images/jackfruit.jpg">
+                <h3>Jackfruit(1-piece(max-4-Kg))</h3>
+                <p>Rs-400</p>
+            </div>
+            <div class="col-4">
+                <img src="images/watermelons.jpg">
+                <h3>watermelons(1-piece)</h3>
+                <p>Rs-50</p>
+            </div>
+            <div class="col-4">
+                <img src="images/imported-guava.jpeg">
+                <h3>Thai-Guava(1-kg)</h3>
+                <p>Rs-100</p>
+            </div>
+            <div class="col-4">
+                <img src="images/papaya.jpeg">
+                <h3>papaya(1-piece(500-gm))</h3>
+                <p>Rs-80</p>
+            </div>
+            <div class="col-4">
+                <img src="images/rose-apples.jpg">
+                <h3>Rose Apple(1-kg)</h3>
+                <p>Rs-200</p>
+            </div>
+            <div class="col-4">
+                <img src="images/pomigranate.jpg">
+                <h3>pomegranate(1-kg)</h3>
+                <p>Rs-200</p>
+            </div>
+            <div class="col-4">
+                <img src="images/avocardo.gif">
+                <h3>avocardo(1-kg)</h3>
+                <p>Rs-700</p>
+            </div>
+            <div class="col-4">
+                <img src="images/Apricots-For-Babies-Benefits-Recipes-And-More-About-The-Wonder-Fruit.jpg">
+                <h3>Apricots(1-kg)</h3>
+                <p>Rs-200</p>
+            </div>
+            <div class="col-4">
+                <img src="images/chiku.jpg">
+                <h3>Sapodilla(1-kg)</h3>
+                <p>Rs-40</p>
+            </div>
+            <div class="col-4">
+                <img src="images/images (3).jpg">
+                <h3>Peach(1-kg)</h3>
+                <p>Rs-200</p>
+            </div>
+            <div class="col-4">
+                <img src="images/images (4).jpg">
+                <h3>Imported-Oranges(1-kg)</h3>
+                <p>Rs-230</p>
+            </div>
+            <div class="col-4">
+                <img src="images/indian apple.jpg">
+                <h3>Shimla-Apple(1-kg)</h3>
+                <p>Rs-170</p>
+            </div>
+            <div class="col-4">
+                <img src="images/lodqzx90-900.jpg">
+                <h3>Imported_Pineapple(1-piece(max-700gm))</h3>
+                <p>Rs-90</p>
+            </div>
+            <div class="col-4">
+                <img src="images/red dates.jpg">
+                <h3>Red-Dates(1-kg)</h3>
+                <p>Rs-100</p>
+            </div>
+            <div class="col-4">
+                <img src="images/strawberries.jpg">
+                <h3>Strawberries(1-kg)</h3>
+                <p>Rs-250</p>
+            </div>
+            <div class="col-4">
+                <img src="images/1368479_425x425.jpg">
+                <h3> Imported Red-Pears(1-kg)</h3>
+                <p>Rs-200</p>
+            </div>
+            <div class="col-4">
+                <img src="images/download (1).jpg">
+                <h3>Imported Red-Grapes(1-kg)</h3>
+                <p>Rs-150</p>
+            </div>
+            <div class="col-4">
+                <img src="images/download (2).jpg">
+                <h3>Black-Grapes(1-kg)</h3>
+                <p>Rs-130</p>
+            </div>
+            <div class="col-4">
+                <img src="images/download (3).jpg">
+                <h3>Pears(1-kg)</h3>
+                <p>Rs-150</p>
+            </div>
+            <div class="col-4">
+                <img src="images/download (4).jpg">
+                <h3>Oranges(1-kg)</h3>
+                <p>Rs-100</p>
+            </div>
+            <div class="col-4">
+                <img src="images/download (6).jpg">
+                <h3>Dragon Fruit(1-kg(max-4-piece))</h3>
+                <p>Rs-500</p>
+            </div>
+            <div class="col-4">
+                <img src="images/download (9).jpg">
+                <h3>Black-Jamun(1-kg)</h3>
+                <p>Rs-500</p>
+            </div>
+            <div class="col-4">
+                <img src="images/badam.jpg">
+                <h3>Badam-Mango(1-kg)</h3>
+                <p>Rs-150</p>
+            </div>
+            <div class="col-4">
+                <img src="images/hapus.png">
+                <h3>Hapus(1-dozen)</h3>
+                <p>Rs-700</p>
+            </div>
+            <div class="col-4">
+                <img src="images/junnar hapus.jpg">
+                <h3>Junnar-Hapus(1-dozen)</h3>
+                <p>Rs-600</p>
+            </div>
+            <div class="col-4">
+                <img src="images/langda.jpg">
+                <h3>Langda-Mango(1-kg)</h3>
+                <p>Rs-120</p>
+            </div>
+        </div>
+    </div>
+<!------- Payment Options -------->
+    <div class="Payment Options">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-5">
+                    <img src="images/g-pay.png" width="80px" height="82a0px">
+                </div>
+                <div class="col-5">
+                    <img src="images/phonepe.png" width="80px" height="80px">
+                </div>
+                <div class="col-5">
+                    <img src="images/paytm.png" width="80px" height="80px">
+                </div>
+                <div class="col-5">
+                    <img src="images/mastercard.png"width="80px" height="80px">
+                </div>
+                <div class="col-5">
+                    <img src="images/visa.png" width="80px" height="80px">
+                </div>
+            </div>
+        </div>
+    </div>
+<!-------- footer -------->
+
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-2">
+                    <img src="images/logo.png">
+                    <p>Fresh Fruits, Deliver All Types Of Fruits You Want</p>
+                </div>
+                <div class="footer-col-1">
+                    <h3>Online Store</h3>
+                    <p>Step All<br>Shipping & Returns<br>Store Policy<br>FAQ.</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Address</h3>
+                    <p>612/A,<br>APMC Fruit Market<br>Vashi (Navi Mumbai-400524) 
+                </div>
+                <div class="footer-col-4">
+                    <h3>Shipping Hours</h3>
+                    <p>We Will Place Order- 24/7<br>Shipping Time:<br>Mon-Sun: 10am to 6pm</p>
+                </div>
+                <div class="footer-col-5">
+                    <h3>Follow us</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Twitter</li>
+                        <li>Instagram</li>
+                        <li>YouTube</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="Copyright">Copyright 2020-2022 Fresh Fruits Market Supplies PVT LTD.</p>
+        </div>
+    </div>
+
+</body>
+</html>
